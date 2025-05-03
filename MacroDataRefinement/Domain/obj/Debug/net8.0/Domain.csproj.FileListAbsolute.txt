@@ -1,0 +1,12 @@
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/bin/Debug/net8.0/Domain.dll
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/bin/Debug/net8.0/Domain.pdb
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/obj/Debug/net8.0/Domain.dll
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/obj/Debug/net8.0/Domain.pdb
+/home/track42/Documents/Dev/repos/macrodata-refinement/MacroDataRefinement/Domain/obj/Debug/net8.0/ref/Domain.dll
